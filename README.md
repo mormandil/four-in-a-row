@@ -1,2 +1,3 @@
 # four-in-a-row-
-The classic 4 in a row game, implemented in c.
+In this project i built four in a row game using c language.
+
